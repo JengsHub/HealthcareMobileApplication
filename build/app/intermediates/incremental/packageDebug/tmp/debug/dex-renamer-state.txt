@@ -1,0 +1,4 @@
+#Sat Jun 13 16:47:19 SGT 2020
+base.0=C\:\\Users\\jy\\Downloads\\FIT3077\\Assignment_2\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
